@@ -34,7 +34,7 @@ function App() {
     <div className="container">
       <div className='row'>
         <div className='col-6'>
-          <button className="btn btn-primary"
+          <button className="btn btn-danger"
             onClick={cambiarOpcion}>Cambiar Opcion</button>
         </div>
         <div className='col-6'>
